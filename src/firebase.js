@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app"
 import { getFirestore } from '@firebase/firestore'
 
 const firebaseConfig = {
-    apiKey: process.env.REACT_APP_FIREBASE_KEY,
+    apiKey: "AIzaSyAngsHe2wSYSZ_c8e6tAMTquC8NfB67bu0",
     authDomain: "fund-value-change-calculator.firebaseapp.com",
     projectId: "fund-value-change-calculator",
     storageBucket: "fund-value-change-calculator.appspot.com",
